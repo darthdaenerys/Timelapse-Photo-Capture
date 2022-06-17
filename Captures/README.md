@@ -1,0 +1,1 @@
+All the captures are saved in this folder.
